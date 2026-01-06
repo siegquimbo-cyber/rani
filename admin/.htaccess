@@ -1,0 +1,2 @@
+# Ensure PHP sessions work correctly when the CMS is deployed under /admin
+php_flag session.auto_start Off
